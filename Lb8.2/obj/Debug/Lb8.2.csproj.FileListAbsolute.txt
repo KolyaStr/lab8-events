@@ -1,0 +1,7 @@
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\bin\Debug\Lb8.2.exe.config
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\bin\Debug\Lb8.2.exe
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\bin\Debug\Lb8.2.pdb
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\obj\Debug\Lb8.2.csproj.AssemblyReference.cache
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\obj\Debug\Lb8.2.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\obj\Debug\Lb8.2.exe
+C:\Users\Kolya\source\repos\Lb8.1-events\Lb8.2\obj\Debug\Lb8.2.pdb
